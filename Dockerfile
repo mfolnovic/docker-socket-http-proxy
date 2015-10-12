@@ -5,5 +5,5 @@ ADD nginx.conf /etc/nginx.conf
 
 EXPOSE 4242
 
-CMD ["/usr/local/sbin/nginx"]
+CMD ["/usr/sbin/nginx"]
 
